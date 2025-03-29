@@ -57,3 +57,24 @@ https://github.com/Yashas-219/power-bi-/blob/main/TASK%203.pbix
 
 
 
+
+
+
+INTEGRATION WITH PYTHON.
+
+Integrating Python or R scripts into Power BI allows you to leverage the power of these programming languages for more advanced data analysis, transformations, or custom visualizations within Power BI. This can be particularly useful when you need to perform complex calculations or build sophisticated models that aren't readily available with Power BI's built-in features.
+
+By showcasing Python in Power BI, you demonstrate how to combine the strengths of Python’s data science capabilities with Power BI's powerful reporting and visualization tools. This allows for richer and more meaningful insights to be presented in a professional, interactive format.
+
+
+
+
+
+
+
+
+https://github.com/Yashas-219/power-bi-/blob/main/task4.pbix
+
+
+
+
