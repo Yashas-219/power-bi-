@@ -35,3 +35,25 @@ Creating a Power BI report that integrates data from multiple sources involves c
 
 
 https://github.com/Yashas-219/power-bi-/blob/main/task2.a.pbix
+
+
+
+
+
+
+REAL-TIME DASHBOARD
+
+A real-time dashboard is a tool used to visualize and track key metrics and data in real time. It allows users to monitor performance, analyze trends, and make informed decisions based on live data streams. Real-time dashboards are commonly used in various industries such as business analytics, operations, finance, marketing, and IoT (Internet of Things).
+
+
+
+
+
+
+
+
+https://github.com/Yashas-219/power-bi-/blob/main/TASK%203.pbix
+
+
+
+
